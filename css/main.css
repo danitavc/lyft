@@ -1,3 +1,26 @@
 /*
  * Estilos de tu proyecto
  */
+
+#container {
+	background-image: url(../assets/images/hero.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 979px;
+	height: 550px;
+
+}
+
+.white {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-weight: 300;
+	list-style-type: none;
+	position: fixed;
+
+}
+
+.white img {
+	width: 60px;
+    margin: 30px;
+}
